@@ -83,4 +83,4 @@ Escolha: 3
 Jogo Cancelado. Até a próxima!
 ```
 
-Divirta-se jogando! Se tiver dúvidas ou sugestões, sinta-se à vontade para contribuir ou entrar em contato com o desenvolvedor.
+Divirta-se jogando! Se tiver dúvidas ou sugestões, sinta-se à vontade para contribuir ou entrar em contato comigo!.
