@@ -1,6 +1,6 @@
 # Jogo de Pedra-Papel-Tesoura-Lagarto-Spock
 
-Este é um jogo de Pedra-Papel-Tesoura-Lagarto-Spock implementado em Python. O jogo é uma expansão do clássico "Pedra-Papel-Tesoura" com duas opções adicionais: Lagarto e Spock. As regras básicas são as seguintes:
+Este é um jogo de Pedra-Papel-Tesoura-Lagarto-Spock implementado em Python. O jogo é uma expansão do clássico "Pedra-Papel-Tesoura" com duas opções adicionais: Lagarto e Spock. O jogo foi inventado por Sam Kass e Karen Bryla em 2005, mas ficou mais conhedido por causa da série de comédia lançada em 2007: The Big Bang Theory. As regras básicas são as seguintes:
 
 - Tesoura corta o papel
 - Papel cobre a pedra
